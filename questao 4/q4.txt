@@ -1,0 +1,15 @@
+Para resolver esse problema, podemos considerar que os veículos se encontrarão no meio do caminho,
+ou seja, após percorrerem 50km cada um.
+
+O carro percorre esses 50km em:
+
+(50 km)/(110 km/h) = 0,45h
+
+O caminhão, por sua vez, leva 5 minutos a mais para passar em cada um dos dois pedágios,
+o que acrescenta um total de 10 minutos no tempo total de viagem:
+
+(50 km)/(80 km/h) = 0,625h + 10 min = 0,625h + 0,167h = 0,792h
+
+Portanto, o caminhão estará mais próximo de Ribeirão Preto, 
+já que ele ainda precisará percorrer mais 50km até chegar à cidade, enquanto o 
+carro já estará a 50km de Franca.
